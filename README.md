@@ -25,9 +25,6 @@ Program to implement the linear regression using gradient descent.
 Developed by: GUTTHA KEERTHANA
 RegisterNumber:  212223240045
 
-Program to implement the linear regression using gradient descent.
-Developed by: Jeshwanth Kumar
-RegisterNumber: 212223240114
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
